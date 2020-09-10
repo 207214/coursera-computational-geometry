@@ -1,1 +1,0 @@
-# coursera-computational-geometry
